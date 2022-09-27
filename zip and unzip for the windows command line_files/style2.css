@@ -1,0 +1,169 @@
+
+.header1 {
+  font-family: Trebuchet MS,Tahoma,Verdana,Arial,sans-serif;
+  font-style: normal;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.header2 {
+  font-family: Trebuchet MS,Tahoma,Verdana,Arial,sans-serif;
+  font-style: normal;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+td.icon {
+  vertical-align: top;
+  padding: 0px 10px 0px 0px;
+}
+
+ul.enum1 {
+}
+
+div.more {
+  text-align: center;
+}
+
+div#logo a {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+#footer_text a {
+  font-family: Trebuchet MS,Tahoma,Verdana,Arial,sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 11px;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+    
+#key_visual {
+   background: url(resources/pagetop900-2.png) no-repeat;
+}
+#text_caption {
+  font-family: Trebuchet MS,Tahoma,Verdana,Arial,sans-serif;
+  font-style: normal;
+  font-size: 18px;
+  font-weight: normal;
+  text-decoration: none;
+}
+#main_nav_list a.main_nav_active_item {
+  background: url(/top/images/dynamic/buttonset1/n1activeitem.gif) no-repeat;
+  font-family: Trebuchet MS,Tahoma,Verdana,Arial,sans-serif;
+  font-style: normal;
+  font-size: 12px;
+  font-weight: normal;
+  text-decoration: none;
+  color: #630;
+  background-position: top left;
+}
+#main_nav_list a.main_nav_item {
+  background: url(/top/images/dynamic/buttonset1/n1.gif) no-repeat;
+  font-family: Trebuchet MS,Tahoma,Verdana,Arial,sans-serif;
+  font-style: normal;
+  font-size: 12px;
+  font-weight: normal;
+  text-decoration: none;
+  color: #9CF;
+  background-position: top left;
+}
+#main_nav_list a.main_nav_item:hover {
+  background: url(/top/images/dynamic/buttonset1/n1hover.gif) no-repeat;
+  font-family: Trebuchet MS,Tahoma,Verdana,Arial,sans-serif;
+  font-style: normal;
+  font-size: 12px;
+  font-weight: normal;
+  text-decoration: none;
+  color: #ffffff;
+  background-position: top left;
+}
+.sub_nav_list a.sub_nav_active_item {
+  background: url(/top/images/dynamic/buttonset1/subnav1active.gif) no-repeat;
+  font-family: Trebuchet MS,Tahoma,Verdana,Arial,sans-serif;
+  font-style: normal;
+  font-size: 12px;
+  font-weight: normal;
+  text-decoration: none;
+  color: #fff;
+}
+.sub_nav_list a {
+  background: url(/top/images/dynamic/buttonset1/subnav1.gif) no-repeat;
+  font-family: Trebuchet MS,Tahoma,Verdana,Arial,sans-serif;
+  font-style: normal;
+  font-size: 12px;
+  font-weight: normal;
+  text-decoration: none;
+  color: #036;
+}
+.sub_nav_list a:hover {
+  background: url(/top/images/dynamic/buttonset1/subnav1hover.gif) no-repeat;
+  font-family: Trebuchet MS,Tahoma,Verdana,Arial,sans-serif;
+  font-style: normal;
+  font-size: 12px;
+  font-weight: normal;
+  text-decoration: none;
+  color: #630;
+}
+#content_container h1 {
+}
+#content_container h2 {
+}
+#content_container h3 {
+}
+#content_container {
+}
+#content_container a:link {
+}
+#content_container a:visited {
+}
+#content_container a:hover {
+}
+#content_container a:active {
+}
+
+#footer_text {
+  font-family: Trebuchet MS,Tahoma,Verdana,Arial,sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 11px;
+  text-decoration: none;
+}
+
+  pre          { font: 14px consolas,courier new,courier }
+  pre.dview    { font: 12px verdana,arial }
+  pre.winshell { font: 12px verdana,arial }
+  pre.snapto   { font: 12px verdana,arial }
+  pre.unzip    { font: 12px courier new,courier }
+  pre.samp     { color: #000080; }
+  div.red      { color: #ff0000; }
+  b.dview      { color: #ee6622; font-style: italic; font-weight: bold }
+  span.red     { color: #ff2000; font-weight: bold }
+  span.green   { color: #00aa00; font-weight: bold }
+  span.org     { color: #ee6622; font-weight: bold }
+  span.upd     { color: #ee6622; }
+  div.sfkver   { font: 14px consolas,courier new,courier;
+                 padding: 0 20px 0 0 }
+  table.news   { font: 10px verdana,arial }
+  a.news       { text-decoration: none }
+  pre.dvhelp   { font: 12px verdana,arial }
+  code2        { font: 14px courier new,courier }
+  ul.feat      { margin: 0; padding: 0px 0 0 0px; list-style: disc;
+                 line-height: normal; list-style-position: inside; 
+                 font: 12px verdana,arial
+               }
+  ul.feat2     { margin: 0; padding: 10px 0 0 50px; }
+  tr.lo        { background-color: #f7f7f7 }
+  tr.hi        { background-color: #f0f0f0 }
+  tr.price     { background-color: #ffffb0 }
+  td.order     { background-color: #ffffb0 }
+  span.otitle  { font: 16px verdana,arial; font-weight: bold; }
+  span.vs      { font: 16px verdana,arial; font-weight: bold; letter-spacing: 2px; }
+  h1           { font: bold 12px verdana,arial; padding: 0; }
+  h1.pure      { font: bold 12px verdana,arial; padding: 0; display: inline; }
+  table        { font: 13px verdana,arial }
+  
+
+

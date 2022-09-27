@@ -1,0 +1,160 @@
+
+#container {
+	background : url(images/static/contentbg.gif) repeat-y 50% 50%;
+}
+
+#container2 {
+	background : url(images/static/contentbg2.gif) repeat-y 50% 50%;
+}
+
+#container3 {
+	background : url(images/static/contentbg3.gif) repeat-y 50% 50%;
+}
+
+#header	{
+	background : url(images/static/headerbg.gif);
+}
+
+#main_nav_container {
+	background : url(images/static/navbg.gif);
+}
+
+#text_caption {
+	color: #000;
+	text-align: right;
+	margin: 10px 0px 0px 0px;
+	font-weight: bold;
+}
+
+#main_nav_list	{
+}
+
+#main_nav_list a.main_nav_item {
+	color: #9cf;
+	background: url(/top/images/dynamic/buttonset1/n1.gif) no-repeat;
+	background-position: top left;
+}
+
+#main_nav_list a.main_nav_item:hover {
+	color: #fff;
+	background: url(/top/images/dynamic/buttonset1/n1hover.gif) no-repeat;
+	background-position: top left;
+}
+
+
+#main_nav_list a.main_nav_active_item {
+	color: #630;
+	background: url(/top/images/dynamic/buttonset1/n1activeitem.gif) no-repeat;
+	background-position: top left;
+}
+
+.sub_nav_list a {
+	color: #036;
+	background: url(/top/images/dynamic/buttonset1/subnav1.gif) no-repeat;
+}
+
+.sub_nav_list a:hover {
+	background: url(/top/images/dynamic/buttonset1/subnav1hover.gif) no-repeat;
+	color: #630;
+}
+
+.sub_nav_list a.sub_nav_active_item {
+	color: #fff;
+	background: url(/top/images/dynamic/buttonset1/subnav1active.gif) no-repeat;
+}
+
+#footer {
+	background: transparent url(images/static/footerbg.gif) top left no-repeat;
+}
+
+#footer_text {
+	color: #036;
+}
+
+/*
+body {
+	color: #000;
+	background: #999;
+}
+*/
+
+#content_container p {
+	color: #000;
+}
+
+#content_container h1 {
+	color: #000;
+}
+
+#content_container h2 {
+	color: #000;
+}
+
+#content_container h3 {
+	color: #000;
+}
+
+#content_container a:link{
+}
+
+#content_container a:visited {
+}
+
+#content_container a:hover {
+}
+
+#content_container a:active {
+}
+
+table {
+}
+
+th {
+}
+
+tr {
+}
+
+td {
+}
+
+#content_container table {
+	border: none;
+}
+
+#content_container th {
+	color: #fff;
+	background-color:#147;
+	padding: 3px 2px 3px 2px;
+}
+
+#content_container tr.odd {
+	color: #147;
+	background-color:#fff;
+	padding: 3px 2px 3px 2px;
+}
+
+#content_container tr.even {
+	color: #147;
+	background-color:#def;
+	padding: 3px 2px 3px 2px;
+}
+
+fieldset {
+	border-color: #036;
+}
+
+legend {
+	color: #036;
+}
+
+label {
+	color: #036;
+}
+
+textarea {
+	border-color: #036;
+}
+
+li { 
+}
